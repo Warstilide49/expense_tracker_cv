@@ -1,0 +1,13 @@
+venv
+my_venv
+__pycache__
+.db3
+.idea
+samples
+.env
+bin/
+include/
+lib/
+lib64
+pyvenv.cfg
+share
