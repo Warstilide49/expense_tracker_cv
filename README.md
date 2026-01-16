@@ -5,3 +5,5 @@ In an attempt to make tracking my expenses easier, came this idea of learning co
 ### New topics learnt
 
 [Adaptive Thresholding](https://docs.opencv.org/4.x/d7/d4d/tutorial_py_thresholding.html)
+
+[Morphological Operations](https://docs.opencv.org/4.x/d9/d61/tutorial_py_morphological_ops.html)
