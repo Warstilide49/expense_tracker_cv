@@ -1,0 +1,144 @@
+Bounding box:[[np.int32(263), np.int32(70)], [np.int32(526), np.int32(70)], [np.int32(526), np.int32(124)], [np.int32(263), np.int32(124)]] 
+ Text: Promenadenstr 
+ (Confidence: 1.00)
+Bounding box:[[np.int32(557), np.int32(87)], [np.int32(577), np.int32(87)], [np.int32(577), np.int32(115)], [np.int32(557), np.int32(115)]] 
+ Text: 7 
+ (Confidence: 1.00)
+Bounding box:[[np.int32(300), np.int32(106)], [np.int32(413), np.int32(106)], [np.int32(413), np.int32(157)], [np.int32(300), np.int32(157)]] 
+ Text: 52062 
+ (Confidence: 1.00)
+Bounding box:[[np.int32(89), np.int32(147)], [np.int32(533), np.int32(147)], [np.int32(533), np.int32(210)], [np.int32(89), np.int32(210)]] 
+ Text: Telefon-Zentra}  02303 
+ (Confidence: 0.51)
+Bounding box:[[np.int32(574), np.int32(153)], [np.int32(741), np.int32(153)], [np.int32(741), np.int32(206)], [np.int32(574), np.int32(206)]] 
+ Text: 5238-200 
+ (Confidence: 0.71)
+Bounding box:[[np.int32(267), np.int32(209)], [np.int32(333), np.int32(209)], [np.int32(333), np.int32(245)], [np.int32(267), np.int32(245)]] 
+ Text: Www 
+ (Confidence: 0.64)
+Bounding box:[[np.int32(423), np.int32(197)], [np.int32(589), np.int32(197)], [np.int32(589), np.int32(239)], [np.int32(423), np.int32(239)]] 
+ Text: wonth. de 
+ (Confidence: 0.85)
+Bounding box:[[np.int32(247), np.int32(293)], [np.int32(313), np.int32(293)], [np.int32(313), np.int32(331)], [np.int32(247), np.int32(331)]] 
+ Text: Ust 
+ (Confidence: 1.00)
+Bounding box:[[np.int32(324), np.int32(278)], [np.int32(630), np.int32(278)], [np.int32(630), np.int32(330)], [np.int32(324), np.int32(330)]] 
+ Text: ID: DE271549856 
+ (Confidence: 0.74)
+Bounding box:[[np.int32(89), np.int32(341)], [np.int32(153), np.int32(341)], [np.int32(153), np.int32(379)], [np.int32(89), np.int32(379)]] 
+ Text: ke) 
+ (Confidence: 0.45)
+Bounding box:[[np.int32(219), np.int32(320)], [np.int32(496), np.int32(320)], [np.int32(496), np.int32(383)], [np.int32(219), np.int32(383)]] 
+ Text: 8682241208586 
+ (Confidence: 1.00)
+Bounding box:[[np.int32(63), np.int32(376)], [np.int32(314), np.int32(376)], [np.int32(314), np.int32(424)], [np.int32(63), np.int32(424)]] 
+ Text: Feuchttücher 
+ (Confidence: 0.96)
+Bounding box:[[np.int32(641), np.int32(377)], [np.int32(729), np.int32(377)], [np.int32(729), np.int32(415)], [np.int32(641), np.int32(415)]] 
+ Text: 1 , 00 
+ (Confidence: 0.38)
+Bounding box:[[np.int32(743), np.int32(379)], [np.int32(763), np.int32(379)], [np.int32(763), np.int32(407)], [np.int32(743), np.int32(407)]] 
+ Text: 1 
+ (Confidence: 1.00)
+Bounding box:[[np.int32(39), np.int32(420)], [np.int32(155), np.int32(420)], [np.int32(155), np.int32(469)], [np.int32(39), np.int32(469)]] 
+ Text: Farbe 
+ (Confidence: 1.00)
+Bounding box:[[np.int32(203), np.int32(423)], [np.int32(255), np.int32(423)], [np.int32(255), np.int32(463)], [np.int32(203), np.int32(463)]] 
+ Text: 50 
+ (Confidence: 1.00)
+Bounding box:[[np.int32(445), np.int32(421)], [np.int32(547), np.int32(421)], [np.int32(547), np.int32(461)], [np.int32(445), np.int32(461)]] 
+ Text: Größe 
+ (Confidence: 0.99)
+Bounding box:[[np.int32(572), np.int32(409)], [np.int32(693), np.int32(409)], [np.int32(693), np.int32(463)], [np.int32(572), np.int32(463)]] 
+ Text: 815-0 
+ (Confidence: 0.77)
+Bounding box:[[np.int32(65), np.int32(465)], [np.int32(147), np.int32(465)], [np.int32(147), np.int32(509)], [np.int32(65), np.int32(509)]] 
+ Text: Ike] 
+ (Confidence: 0.61)
+Bounding box:[[np.int32(223), np.int32(460)], [np.int32(496), np.int32(460)], [np.int32(496), np.int32(512)], [np.int32(223), np.int32(512)]] 
+ Text: 2000013282795 
+ (Confidence: 0.95)
+Bounding box:[[np.int32(56), np.int32(506)], [np.int32(276), np.int32(506)], [np.int32(276), np.int32(559)], [np.int32(56), np.int32(559)]] 
+ Text: Dekok | sseri 
+ (Confidence: 0.71)
+Bounding box:[[np.int32(644), np.int32(502)], [np.int32(740), np.int32(502)], [np.int32(740), np.int32(552)], [np.int32(644), np.int32(552)]] 
+ Text: 5 ,00 
+ (Confidence: 0.69)
+Bounding box:[[np.int32(754), np.int32(506)], [np.int32(778), np.int32(506)], [np.int32(778), np.int32(540)], [np.int32(754), np.int32(540)]] 
+ Text: 1 
+ (Confidence: 1.00)
+Bounding box:[[np.int32(32), np.int32(552)], [np.int32(155), np.int32(552)], [np.int32(155), np.int32(606)], [np.int32(32), np.int32(606)]] 
+ Text: Farbe 
+ (Confidence: 1.00)
+Bounding box:[[np.int32(207), np.int32(557)], [np.int32(269), np.int32(557)], [np.int32(269), np.int32(599)], [np.int32(207), np.int32(599)]] 
+ Text: 163 
+ (Confidence: 0.99)
+Bounding box:[[0, np.int32(600)], [np.int32(147), np.int32(600)], [np.int32(147), np.int32(649)], [0, np.int32(649)]] 
+ Text: Ar t Ikel 
+ (Confidence: 0.46)
+Bounding box:[[np.int32(221), np.int32(595)], [np.int32(486), np.int32(595)], [np.int32(486), np.int32(646)], [np.int32(221), np.int32(646)]] 
+ Text: 2000011486181 
+ (Confidence: 0.97)
+Bounding box:[[np.int32(56), np.int32(644)], [np.int32(373), np.int32(644)], [np.int32(373), np.int32(705)], [np.int32(56), np.int32(705)]] 
+ Text: Imprägnierspray 
+ (Confidence: 0.82)
+Bounding box:[[np.int32(644), np.int32(638)], [np.int32(747), np.int32(638)], [np.int32(747), np.int32(692)], [np.int32(644), np.int32(692)]] 
+ Text: 2,00 
+ (Confidence: 0.86)
+Bounding box:[[np.int32(760), np.int32(648)], [np.int32(784), np.int32(648)], [np.int32(784), np.int32(682)], [np.int32(760), np.int32(682)]] 
+ Text: 1 
+ (Confidence: 1.00)
+Bounding box:[[np.int32(55), np.int32(743)], [np.int32(171), np.int32(743)], [np.int32(171), np.int32(785)], [np.int32(55), np.int32(785)]] 
+ Text: Summe 
+ (Confidence: 1.00)
+Bounding box:[[np.int32(650), np.int32(740)], [np.int32(746), np.int32(740)], [np.int32(746), np.int32(788)], [np.int32(650), np.int32(788)]] 
+ Text: 9 ,00 
+ (Confidence: 0.51)
+Bounding box:[[0, np.int32(791)], [np.int32(171), np.int32(791)], [np.int32(171), np.int32(836)], [0, np.int32(836)]] 
+ Text: Visacard 
+ (Confidence: 0.71)
+Bounding box:[[np.int32(405), np.int32(785)], [np.int32(475), np.int32(785)], [np.int32(475), np.int32(829)], [np.int32(405), np.int32(829)]] 
+ Text: EUR 
+ (Confidence: 1.00)
+Bounding box:[[np.int32(650), np.int32(788)], [np.int32(746), np.int32(788)], [np.int32(746), np.int32(836)], [np.int32(650), np.int32(836)]] 
+ Text: 9,00 
+ (Confidence: 0.90)
+Bounding box:[[np.int32(38), np.int32(831)], [np.int32(504), np.int32(831)], [np.int32(504), np.int32(888)], [np.int32(38), np.int32(888)]] 
+ Text: KU-N-D-e--B-E-L-E-G- 
+ (Confidence: 0.37)
+Bounding box:[[np.int32(38), np.int32(882)], [np.int32(218), np.int32(882)], [np.int32(218), np.int32(930)], [np.int32(38), np.int32(930)]] 
+ Text: Woc)wort 
+ (Confidence: 0.57)
+Bounding box:[[np.int32(239), np.int32(885)], [np.int32(415), np.int32(885)], [np.int32(415), np.int32(929)], [np.int32(239), np.int32(929)]] 
+ Text: GmbH Ff) 
+ (Confidence: 0.59)
+Bounding box:[[np.int32(453), np.int32(873)], [np.int32(543), np.int32(873)], [np.int32(543), np.int32(915)], [np.int32(453), np.int32(915)]] 
+ Text: 1590 
+ (Confidence: 1.00)
+Bounding box:[[0, np.int32(929)], [np.int32(276), np.int32(929)], [np.int32(276), np.int32(977)], [0, np.int32(977)]] 
+ Text: Promenadens !r 
+ (Confidence: 0.70)
+Bounding box:[[np.int32(305), np.int32(933)], [np.int32(379), np.int32(933)], [np.int32(379), np.int32(975)], [np.int32(305), np.int32(975)]] 
+ Text: 7-9 
+ (Confidence: 1.00)
+Bounding box:[[0, np.int32(964)], [np.int32(246), np.int32(964)], [np.int32(246), np.int32(1021)], [0, np.int32(1021)]] 
+ Text: 52C62  Aachei 
+ (Confidence: 0.28)
+Bounding box:[[np.int32(21), np.int32(1013)], [np.int32(260), np.int32(1013)], [np.int32(260), np.int32(1061)], [np.int32(21), np.int32(1061)]] 
+ Text: Terminal-ID 
+ (Confidence: 0.73)
+Bounding box:[[np.int32(349), np.int32(1007)], [np.int32(523), np.int32(1007)], [np.int32(523), np.int32(1049)], [np.int32(349), np.int32(1049)]] 
+ Text: 61487196 
+ (Confidence: 0.96)
+Bounding box:[[np.float64(426.2583685632087), np.float64(109.06935338500611)], [np.float64(548.9781972542063), np.float64(132.58293093302677)], [np.float64(540.7416314367913), np.float64(169.9306466149939)], [np.float64(417.02180274579376), np.float64(146.41706906697323)]] 
+ Text: Aachen 
+ (Confidence: 1.00)
+Bounding box:[[np.float64(341.3183180150092), np.float64(197.29129044202583)], [np.float64(425.33765214340735), np.float64(191.5130794377798)], [np.float64(426.6816819849908), np.float64(234.70870955797417)], [np.float64(341.66234785659265), np.float64(239.4869205622202)]] 
+ Text: wool 
+ (Confidence: 0.52)
+Bounding box:[[np.float64(13.121046807581713), np.float64(320.0778621224576)], [np.float64(103.93620560356324), np.float64(345.2038378058769)], [np.float64(91.8789531924183), np.float64(385.9221378775424)], [np.float64(1.063794396436764), np.float64(361.7961621941231)]] 
+ Text: Artil 
+ (Confidence: 0.99)
+Bounding box:[[np.float64(-0.15810263653019918), np.float64(459.1359689265732)], [np.float64(74.66002335770648), np.float64(469.18776869422527)], [np.float64(67.1581026365302), np.float64(510.8640310734268)], [np.float64(-6.66002335770648), np.float64(500.81223130577473)]] 
+ Text: [rt- 
+ (Confidence: 0.29)
